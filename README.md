@@ -5,6 +5,6 @@
 3. Select Database from SQL file.
 4. Change Extension to **all files**.
 5. Select **DB file**(OnlineShopping.db) and open this file.
-6. Choose **new name** for your database. like - Online_Sopping_Database.
+6. Choose **new name** for your database. like - Online_Shopping_Database.
 7. db file is successfully imported.
    
